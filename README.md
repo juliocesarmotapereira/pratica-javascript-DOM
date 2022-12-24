@@ -11,6 +11,9 @@
 - método para escutar eventos no elemento: nomeVariavel.addEventListener; 
 - criar elemento no DOM: nomeVariavel = document.createElement(‘li’); 
 - anexar um elementro dentro do outro (elemento filho dentro do elemento pai): nomeVariavel.innerHTML = nomeVariavel + nomeVariavel.appendChild(nomeVariavel);
-- 
+- IIFE (Immediately Invoked Funtion Expression);
+- adicionar classe CSS utilizando o método toggle;
+- atributo parentElement para subir um elemento na árvore do DOM; 
+- encontrar o alvo do evento utilizando a propriedade target;
 
 
