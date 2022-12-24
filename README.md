@@ -1,7 +1,8 @@
 ## prática de estudos javascript-DOM
 
 ### anotações
-- DOM (Document Object Model)
+- comportamento de um formulário;
+- DOM (Document Object Model);
 - document.getElementById(‘id’) seleciona o elemento pelo id passado;
 - document.getElementsByClassName(‘classe’) retorna um array dos elementos pelo nome da classe passada;
 - document.getElementsByTagName(‘tag’) retorna um array dos elementos pelo nome da tag passada; 
@@ -15,5 +16,4 @@
 - adicionar classe CSS utilizando o método toggle;
 - atributo parentElement para subir um elemento na árvore do DOM; 
 - encontrar o alvo do evento utilizando a propriedade target;
-
-
+- componentes começa com letra maiúscula, import / export, proteger o código;
